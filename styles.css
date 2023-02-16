@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.row{
+	display: flex;
+	justify-content: space-between;
+}
+
+img{
+	width: 50px;
+}
